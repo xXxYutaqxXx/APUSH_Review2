@@ -1,0 +1,55 @@
+h1{
+    color : firebrick;
+}
+h2{
+    color : yellow;
+
+}
+h3{
+    color : black;
+}
+h4{
+    color : black;
+}
+h5{
+    color : blue;
+}
+h6{
+    color : aqua;
+}
+body{
+    background-color: lightblue;
+}
+/**The start of our css learning :)
+/**the name of what we want to edit{
+    what we want to**/
+body{
+    background-color: #0000;
+}
+#p1{
+    color: tomato;
+}
+/**Reduncy cut**/
+.odd{
+    color: red;
+}
+.even{
+    color: blue;
+    /** we learn fonts, two fonts incase the current bowser doesn't take the first font**/
+    /** to find fonts use fonts/google.com**/
+    font-family: "consolas", sans-serif;
+    font-style: bold;
+    font-weight: bolder;
+    text-decoration: cyan wavy underline;
+    font-size: 18px;
+}
+#header{
+    font-family: "Sans-serif";
+    font-style: bold;
+    font-size: 24px;
+}
+#des{
+    font-family: "Sans-serif";
+    font-style: italic;
+    font-size: 18px;
+}
